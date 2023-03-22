@@ -1,0 +1,30 @@
+{
+  "name": "nextsuka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "ethers": "5.4",
+    "@next/font": "13.0.7",
+    "next": "13.0.7",
+    "next-themes": "^0.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-use-websocket": "^4.3.1",
+    "swr": "^2.1.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "18.15.5",
+    "@types/react": "18.0.28",
+    "typescript": "5.0.2"
+  }
+}
